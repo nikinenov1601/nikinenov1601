@@ -1,6 +1,6 @@
 ### Hi there 👋,  I'm Niki
 
-#### A budding C# developer passionate about building innovative solutions and eager to kick-start my career in software development
+#### A C# developer in progress, passionate about building innovative solutions and eager to kick-start my career in software development
 👓Eager to immerse myself in the world of software development, I'm passionate about honing my skills and exploring new technologies.
 
 💻 Currently studying JavaScript and HTML as a student at Software University in Sofia, Bulgaria, I'm enthusiastic about applying my knowledge to create engaging web applications and contribute to innovative projects.
